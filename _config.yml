@@ -7,21 +7,20 @@ home-header-subtitle:
 banner-image: balazs-ketyi-_x335IZXxfc-unsplash.jpeg
 
 # download url
-download: https://github.com/harrywang/tailpages
+download: https://github.com/harrywang/cswim
 
 # your github url: https://USERNAME.github.io
 # base url is the repo's name
-# the following will match https://harrywang.github.io/tailpages/
-url: https://harrywang.github.io/tailpages/
+url: https://harrywang.github.io/cswim
 
 # To enable google analytics, supply your token below
 analytics-google: G-WCRC1TC2V5
 
 # use false to turn off any social media links
 facebook: false
-twitter: https://twitter.com/harryjwang
-medium: https://harrywang.medium.com/
-github: https://github.com/harrywang
+twitter: false
+medium: false
+github: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true
